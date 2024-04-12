@@ -32,3 +32,5 @@ Follow these steps to get started with the Sentiment Analysis project:
 This project marks the start of my journey into machine learning. As I learn more, I'll keep improving this sentiment analysis tool with updates and enhancements. 
 
 Stay connected for exciting new features and improvements. Thank you for joining me on this journey!
+
+For the ML code and training data, create a request in GitHub.
